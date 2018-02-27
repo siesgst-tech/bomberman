@@ -1,5 +1,18 @@
 #ignoring everything except /GameContent and /Mannequin
-AnimStarterPack
-Collections
-Developers
-StarterContent
+Content/AnimStarterPack
+Content/Collections
+Content/Developers
+Content/StarterContent
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
