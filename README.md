@@ -15,6 +15,9 @@ Also the build version of the game is ahead of the commits. I guess some commits
 
 [Chinmay Chandak](https://github.com/CCAtAlvis)
 
+### Build
+Get the build [here](https://github.com/CCAtAlvis/bomberman/releases/tag/v1.0)
+
 ### About Cognition
 Cognition is the annual technical festival organised at the SIES Graduate School of Technology. As one of the premier technical festivals in the city of Navi Mumbai, Cognition defines what it means to be a holistic collegiate festival - an amalgamation of stellar technical prowess and a creative ethos designed to entertain and enthral the wide range of audiences that attend this festival each year.
 
